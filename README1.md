@@ -12,9 +12,9 @@ A **production-ready REST API** built with FastAPI, SQLAlchemy, and JWT authenti
 
 ## 🌐 Live Demo
 
-> **Base URL:** `https://task-manager-api-xxxx.onrender.com`
+> **Base URL:** `https://task-management-api-1-geo4.onrender.com/`
 > 
-> **Interactive Docs:** `https://task-manager-api-xxxx.onrender.com/docs`
+> **Interactive Docs:** `https://task-management-api-1-geo4.onrender.com/docs`
 
 ---
 
